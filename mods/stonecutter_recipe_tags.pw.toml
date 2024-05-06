@@ -1,0 +1,13 @@
+name = "Stonecutter Recipe Tags"
+filename = "stonecutter_recipe_tags-4.2.1+1.19.5861878.fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BcCkI96l/versions/4qsCnnL0/stonecutter_recipe_tags-4.2.1%2B1.19.5861878.fabric.jar"
+hash-format = "sha1"
+hash = "9b48ef6b9c5cd3aa65c266d355eb06be29d63585"
+
+[update]
+[update.modrinth]
+mod-id = "BcCkI96l"
+version = "4qsCnnL0"

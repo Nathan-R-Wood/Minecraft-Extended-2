@@ -1,0 +1,13 @@
+name = "More End Cities"
+filename = "starbidous-more-end-cities-fabric-1.0.0+1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oSlgg4HL/versions/J7LElTQD/starbidous-more-end-cities-fabric-1.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "a1847e41c9253b82c28bc8dbac948df280a4f66d"
+
+[update]
+[update.modrinth]
+mod-id = "oSlgg4HL"
+version = "J7LElTQD"

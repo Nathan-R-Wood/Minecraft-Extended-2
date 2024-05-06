@@ -1,0 +1,9 @@
+Dockerfile
+.dockerignore
+*.zip
+*.mrpack
+.git*
+.packwizignore
+README.md
+*.tar
+LICENSE

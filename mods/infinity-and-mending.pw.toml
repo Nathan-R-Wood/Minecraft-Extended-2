@@ -1,0 +1,13 @@
+name = "Infinity and Mending"
+filename = "infinityandmending-1.0.0+1.19.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tUvQMFwZ/versions/nzxeehvi/infinityandmending-1.0.0%2B1.19.3.jar"
+hash-format = "sha1"
+hash = "397b017a3a33a2f73253fc75b68160c6e2c02d47"
+
+[update]
+[update.modrinth]
+mod-id = "tUvQMFwZ"
+version = "nzxeehvi"

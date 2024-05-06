@@ -1,0 +1,16 @@
+name = "Minecraft Extended"
+author = "Wizard Dragon"
+version = "0.7.4"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5ce7315100ff3b0322b9eccd9e4edf72334321c13bb892b18fb6a5e839dc5dda"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.8"
+
+[options]
+datapack-folder = "config/paxi/datapacks"

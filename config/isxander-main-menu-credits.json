@@ -1,0 +1,40 @@
+{
+    "main_menu": {
+      "top_left": [
+        {"text":"Minecraft Extended","color":"gold"},
+        {"text":"Version "},
+        {"text":"0.7.4","color":"green"}
+      ],
+      "top_right": [
+      
+      ],
+      "bottom_left": [
+      
+      ],
+      "bottom_right": [
+      
+      ],
+      "mod_blacklist": [
+  
+      ]
+    },
+    "pause_menu": {
+      "top_left": [
+        {"text":"Minecraft Extended","color":"gold"},
+        {"text":"Version "},
+        {"text":"0.7.4","color":"green"}
+      ],
+      "top_right": [
+      
+      ],
+      "bottom_left": [
+      
+      ],
+      "bottom_right": [
+      
+      ],
+      "mod_blacklist": [
+  
+      ]
+    }
+  }
