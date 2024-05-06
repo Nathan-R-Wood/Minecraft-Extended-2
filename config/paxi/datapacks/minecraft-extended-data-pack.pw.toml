@@ -1,0 +1,13 @@
+name = "Minecraft Extended Data Pack"
+filename = "Minecraft-Extended-DP.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z0qhK9W8/versions/4jelmXu6/Minecraft-Extended-DP.zip"
+hash-format = "sha1"
+hash = "9956eb63d9100067c0b70635cd4e26582225b033"
+
+[update]
+[update.modrinth]
+mod-id = "z0qhK9W8"
+version = "4jelmXu6"

@@ -1,7 +1,7 @@
 {
   "configVersion": 2,
   "enabledGui": true,
-  "targetFPSIngameGui": 20,
+  "targetFPSIngameGui": 40,
   "enabledGuiAnimationSpeedup": true,
   "targetFPSIngameGuiAnimated": 40,
   "enabledScreens": false,

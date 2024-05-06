@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/additional-additions-config.json"
-hash = "5ba120689be22764f715cf3632b2ab5f45979a5e42d6ba85b0c3712519bfe484"
+hash = "a45a8bded97b87a665e0df0e6a475c1c35c544c7db56668c484d5dcc69706990"
 
 [[files]]
 file = "config/appleskin.json5"
@@ -53,10 +53,6 @@ file = "config/culinaire/features.json"
 hash = "4ff91787410a971b45eff8a314edb149e2e65c1d8be2c72e25f1986666e812e3"
 
 [[files]]
-file = "config/customsplashscreen.json5"
-hash = "f78d900b2aba1e668a61b96f421666524c6e15570f51e2f92e8b7050fdc9e7fb"
-
-[[files]]
 file = "config/customsplashscreen/custom_background.jpg"
 hash = "f5f69dc8340492954ed4f28b0c55c76901ef57cc01d6e60c2f2770dc7ccb6e96"
 
@@ -66,19 +62,20 @@ hash = "66356404c433159615bdca10d244a4ae9648d69b2690294c02b44343b1a95bae"
 
 [[files]]
 file = "config/exordium.json"
-hash = "3b59ac81df22a4852145876b01c6be123024ed57f4512e3eccdbcdb175e8c5a7"
+hash = "de9787bf16c8ada2027c891e1808986f1bb20becac7b720d88ace2edd268374c"
 
 [[files]]
 file = "config/friendsandfoes.json"
 hash = "18449d2114ffe0e60bf9331e1080a1a8fda1f8f3668278de0c9a2533c5c72e29"
 
 [[files]]
-file = "config/inventory_tabs.json"
-hash = "26933f685a4f434dddacc48c2dffbe54d90b4f304e972a43f21e448ba6c86f6c"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "f490c1a65112cdbd54d5e4cd067f7f05cb9a049dcd648c98c6f125568f325ae2"
+
+[[files]]
+file = "config/paxi/datapacks/minecraft-extended-data-pack.pw.toml"
+hash = "3cd2130b890bd7f2e85e7b4c066b9997878d06440980c36babaf5795a7351104"
+metafile = true
 
 [[files]]
 file = "defaultconfigs/easyshulkerboxes-server.toml"
@@ -205,13 +202,13 @@ hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
-file = "mods/culinaire.pw.toml"
-hash = "61ac2aa0513e9c5c6e27e2bfd002ef0348ad82d12bc976d86c3171c8ed918243"
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
 
 [[files]]
-file = "mods/custom-splash-screen.pw.toml"
-hash = "f198f659f5f32d20d5a503c3599a217e6c2d3c44a139d62f5d899201fefae708"
+file = "mods/culinaire.pw.toml"
+hash = "61ac2aa0513e9c5c6e27e2bfd002ef0348ad82d12bc976d86c3171c8ed918243"
 metafile = true
 
 [[files]]
@@ -245,6 +242,11 @@ hash = "af7f8767a492330e81bd229d0a2da3d880b89276ece8407c4ea4cb1ddfd66e5d"
 metafile = true
 
 [[files]]
+file = "mods/drippy-loading-screen.pw.toml"
+hash = "dcea9652980fa97909dc9231878fa853f4b1da3d1a3967615f04b7f4d695e6e6"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
@@ -260,6 +262,11 @@ hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "c102c17148affae740d8152d7a9123b79a808a3f6eb5734791e22cde43cf19a4"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b73dc299ac242f3dc0e5cafe29701e3f1632adbe33a41561c17701da28cbf30c"
 metafile = true
@@ -267,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "625dddd14bf47324a945452cbd92e913877bb574883b086a73aa6fc07740ac44"
+metafile = true
+
+[[files]]
+file = "mods/eureka.pw.toml"
+hash = "6c65cd9854ca0811c41d8877eeddd2ae6a42a273bea633b2bf3e9938a04dc7a7"
 metafile = true
 
 [[files]]
@@ -302,6 +314,11 @@ metafile = true
 [[files]]
 file = "mods/extraalchemy.pw.toml"
 hash = "8fcc97c8788ad77b7587f4879e9e4ccac7bec43aeceeb7dcdb993eacc645c323"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "f7a50aa8629a4647c54755ac16e0ea2697c90f222cff8bdd9f550cb36e167896"
 metafile = true
 
 [[files]]
@@ -400,6 +417,11 @@ hash = "9ee44f2b5e17d15ac6ca16542413fd94314f840bd56fbec7e13faed7d2c411dd"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
@@ -427,6 +449,11 @@ metafile = true
 [[files]]
 file = "mods/megane.pw.toml"
 hash = "3ced9923614afdcbc0a67a7ccb6bdcf2b07b7325a52ea7f4978a7433ee03a4cd"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
 metafile = true
 
 [[files]]
@@ -590,6 +617,11 @@ hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
 metafile = true
 
 [[files]]
+file = "mods/tectonic.pw.toml"
+hash = "52ae7d824d0e2856df296db16f108d4843a7e1fea3b1769e4678f2e5b6dd991e"
+metafile = true
+
+[[files]]
 file = "mods/the-bumblezone-fabric.pw.toml"
 hash = "bb194bdc38bf6890e0d38035b83392f9f03ce02bbb86b0560679dfaf1290891c"
 metafile = true
@@ -617,6 +649,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "68e2402dd563c5b7e9a6d0fc68125e6ca2e521a742d35eaeab672153a88ccc28"
+metafile = true
+
+[[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "acc29f4d30641c8138744b8c15cad479e17c601567de64b19ddb82aff37b3ad1"
 metafile = true
 
 [[files]]
