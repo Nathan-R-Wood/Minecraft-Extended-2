@@ -53,16 +53,56 @@ file = "config/culinaire/features.json"
 hash = "4ff91787410a971b45eff8a314edb149e2e65c1d8be2c72e25f1986666e812e3"
 
 [[files]]
-file = "config/customsplashscreen/custom_background.jpg"
+file = "config/exordium.json"
+hash = "de9787bf16c8ada2027c891e1808986f1bb20becac7b720d88ace2edd268374c"
+
+[[files]]
+file = "config/fancymenu/assets/air-ship.png"
+hash = "aeafdd821113968a3cc662ff7bbf71e274b99bb4a6ce8655c7094faafa805eaf"
+
+[[files]]
+file = "config/fancymenu/assets/custom_background.jpg"
 hash = "f5f69dc8340492954ed4f28b0c55c76901ef57cc01d6e60c2f2770dc7ccb6e96"
 
 [[files]]
-file = "config/customsplashscreen/logo.png"
+file = "config/fancymenu/assets/logo.png"
 hash = "66356404c433159615bdca10d244a4ae9648d69b2690294c02b44343b1a95bae"
 
 [[files]]
-file = "config/exordium.json"
-hash = "de9787bf16c8ada2027c891e1808986f1bb20becac7b720d88ace2edd268374c"
+file = "config/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "04bc233713cb1865a30943e5c26386ca3237d605287a51882feec6cc6ae8b0c1"
+
+[[files]]
+file = "config/fancymenu/customization/loading_screen.txt"
+hash = "ec10e843e01a1a0ad9c905ac2a4e68ff23e1beaa0ec4a97bca61fdf03680d5b1"
+
+[[files]]
+file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
+
+[[files]]
+file = "config/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "f063281433a399afd145442b2d2607598d9f5db9c1276620004f30a2c9ec9aff"
+
+[[files]]
+file = "config/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
 
 [[files]]
 file = "config/friendsandfoes.json"
