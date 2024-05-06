@@ -1,13 +1,13 @@
 name = "Towers of the Wild: Additions"
-filename = "totw_additions-1.2.3-1.19.x-fabric.jar"
+filename = "totw_additions-1.3.0-1.20.x-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kzdWjLDh/versions/WJ8xR3fH/totw_additions-1.2.3-1.19.x-fabric.jar"
+url = "https://cdn.modrinth.com/data/kzdWjLDh/versions/c2ZbFUGP/totw_additions-1.3.0-1.20.x-fabric.jar"
 hash-format = "sha1"
-hash = "c09dd466a5867748e84e88374c8615fab8e985cc"
+hash = "571b64441b4b45100bee9a218d7c944f62b23ae7"
 
 [update]
 [update.modrinth]
 mod-id = "kzdWjLDh"
-version = "WJ8xR3fH"
+version = "c2ZbFUGP"

@@ -1,13 +1,13 @@
 name = "Shulker Box Slot"
-filename = "shulkerboxslot-fabric-5.0.0-beta.1+1.19.2.jar"
+filename = "shulkerboxslot-quilt-5.1.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/R5T1RmWr/versions/3Lk3BfJ8/shulkerboxslot-fabric-5.0.0-beta.1%2B1.19.2.jar"
+url = "https://cdn.modrinth.com/data/R5T1RmWr/versions/uZXs9Vcj/shulkerboxslot-quilt-5.1.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "26f3b29705e198d42c137989e97cf7dab0ed6dd3"
+hash = "2443519c4b3f2eebba29a6a01447bb22e02b3693"
 
 [update]
 [update.modrinth]
 mod-id = "R5T1RmWr"
-version = "3Lk3BfJ8"
+version = "uZXs9Vcj"

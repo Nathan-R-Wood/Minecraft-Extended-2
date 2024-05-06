@@ -10,11 +10,11 @@ Welcome to the project files for the Minecraft Extended modpack.
 
 3. Clone the project.
 ```
-git clone git@github.com:w1zz4rddr4g0n/Minecraft-Extended.git
+git clone git@github.com:nathan-roy-wood/Minecraft-Extended-2.git
 ```
 4. Make sure you're in the project directory.
 ```
-cd Minecraft-Extended
+cd Minecraft-Extended-2
 ```
 5. Use packwiz to execute desired changes.
 

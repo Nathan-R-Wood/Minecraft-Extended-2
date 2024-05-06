@@ -1,13 +1,13 @@
 name = "microDurability"
-filename = "microdurability-0.3.6+1.19.jar"
+filename = "microdurability-0.3.7+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/JW3bGnLO/versions/0.3.6%2B1.19/microdurability-0.3.6%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/JW3bGnLO/versions/SKKklgju/microdurability-0.3.7%2B1.20.jar"
 hash-format = "sha1"
-hash = "fda6e80e539097300b1c5cb7643992717960aeb1"
+hash = "4731ee567b583bd35e6f62a6d9bda2e5ad6b4ce5"
 
 [update]
 [update.modrinth]
 mod-id = "JW3bGnLO"
-version = "kbTj92Ij"
+version = "SKKklgju"

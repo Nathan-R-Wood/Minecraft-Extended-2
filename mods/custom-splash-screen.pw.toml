@@ -1,13 +1,13 @@
 name = "Custom Splash Screen"
-filename = "customsplashscreen-1.2.0.jar"
+filename = "customsplashscreen-2.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BwFQLeCh/versions/1.2.0/customsplashscreen-1.2.0.jar"
+url = "https://cdn.modrinth.com/data/BwFQLeCh/versions/olYha9Cw/customsplashscreen-2.1.1.jar"
 hash-format = "sha1"
-hash = "df3e737868339e44d52896d53ae63c249a2f5dcf"
+hash = "40bf9ab122abd11100c2ac35bc1fb4db1f8afcae"
 
 [update]
 [update.modrinth]
 mod-id = "BwFQLeCh"
-version = "XZW5p8M0"
+version = "olYha9Cw"

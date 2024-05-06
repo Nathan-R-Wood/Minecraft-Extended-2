@@ -1,13 +1,13 @@
 name = "Size Shifting Potions"
-filename = "SizeShiftingPotions-fabric-1.19.2-1.5.1.jar"
+filename = "sizeshiftingpotions-1.7.0-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rfj2v0X6/versions/8XY6NJGW/SizeShiftingPotions-fabric-1.19.2-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/rfj2v0X6/versions/Cw7BWZSi/sizeshiftingpotions-1.7.0-fabric.jar"
 hash-format = "sha1"
-hash = "b1943f3295a6e7973d2f5a0667dd2cef9a5f39be"
+hash = "da919f912fe6d8824b3e1af220d13adc6175c500"
 
 [update]
 [update.modrinth]
 mod-id = "rfj2v0X6"
-version = "8XY6NJGW"
+version = "Cw7BWZSi"

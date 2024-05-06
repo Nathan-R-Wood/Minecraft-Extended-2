@@ -1,13 +1,13 @@
 name = "Expanded Weapon Enchanting"
-filename = "expanded-weapon-enchanting-1.0.3.jar"
+filename = "expanded-weapon-enchanting-1.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aa4EyFDP/versions/1.0.3/expanded-weapon-enchanting-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/aa4EyFDP/versions/UZrNX0K8/expanded-weapon-enchanting-1.0.6.jar"
 hash-format = "sha1"
-hash = "d6dbfb0db1655f9bb5aa0ba09c31ca25b245edd4"
+hash = "6988002c49bd47d099029f0b6a3da3be6809dd25"
 
 [update]
 [update.modrinth]
 mod-id = "aa4EyFDP"
-version = "ycPMeJEP"
+version = "UZrNX0K8"

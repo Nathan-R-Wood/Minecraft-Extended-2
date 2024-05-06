@@ -1,8 +1,0 @@
-{
-	"modEnabled": true,
-	"displayMode": "ON_HOVER",
-	"nearbyDistance": 8,
-	"showOtherOwners": true,
-	"nameplateFormat": "%s",
-	"textColor": "GREEN"
-}
