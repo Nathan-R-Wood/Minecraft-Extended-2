@@ -1,0 +1,13 @@
+name = "Minecraft Extended Data Pack"
+filename = "minecraft-extended-data-pack-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z0qhK9W8/versions/8xvaUGYJ/minecraft-extended-data-pack-0.2.0.jar"
+hash-format = "sha1"
+hash = "d1871fb58a3c101517df26cddf29684d9a50d3fb"
+
+[update]
+[update.modrinth]
+mod-id = "z0qhK9W8"
+version = "8xvaUGYJ"

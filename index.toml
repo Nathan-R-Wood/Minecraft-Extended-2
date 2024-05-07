@@ -110,12 +110,7 @@ hash = "18449d2114ffe0e60bf9331e1080a1a8fda1f8f3668278de0c9a2533c5c72e29"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f490c1a65112cdbd54d5e4cd067f7f05cb9a049dcd648c98c6f125568f325ae2"
-
-[[files]]
-file = "config/paxi/datapacks/minecraft-extended-data-pack.pw.toml"
-hash = "3cd2130b890bd7f2e85e7b4c066b9997878d06440980c36babaf5795a7351104"
-metafile = true
+hash = "440b22d1dfdbc4df351162c1d234688d428ce33c4d4d61068e8aaa9cb27fd57d"
 
 [[files]]
 file = "defaultconfigs/easyshulkerboxes-server.toml"
@@ -417,11 +412,6 @@ hash = "e416b18eebf514dea2014cf5c7fd3ee8493934a0b4e937509f15172ad271fde2"
 metafile = true
 
 [[files]]
-file = "mods/infinity-and-mending.pw.toml"
-hash = "295ecb2978dbc8861609a9b0ca2738ccf42cbdd033511404088b9fd1d9088ab9"
-metafile = true
-
-[[files]]
 file = "mods/infusion-table.pw.toml"
 hash = "e77763ac8ecd9030f024e44e91efb473d940653b1113abcd50d1eff27e042d3e"
 metafile = true
@@ -517,13 +507,13 @@ hash = "50149a97b2d959bfac8e1c377fdab49fc52f1439d004b1ac1c26a3a7f790e044"
 metafile = true
 
 [[files]]
-file = "mods/minimotd.pw.toml"
-hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
+file = "mods/minecraft-extended-data-pack.pw.toml"
+hash = "8388f1ffcb04f50da5aa56cbfaeea02549b1786cca06c7b1f6e8375a2fd6b421"
 metafile = true
 
 [[files]]
-file = "mods/mob-captains.pw.toml"
-hash = "d2890336faf28e59c15902545b261bf39f020850e61174ba799169a5f67e9e52"
+file = "mods/minimotd.pw.toml"
+hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
 metafile = true
 
 [[files]]
@@ -534,11 +524,6 @@ metafile = true
 [[files]]
 file = "mods/more-mob-variants.pw.toml"
 hash = "434aa72d89030fbe6bb07e7b4518cea1863bad462ea7beae16594adc1a48e1ad"
-metafile = true
-
-[[files]]
-file = "mods/netherportalfix.pw.toml"
-hash = "030992dda4ed112d764c1e0fbc0ecf3bfb9f2efb40ab91cc26155be7e3f8a98a"
 metafile = true
 
 [[files]]
@@ -569,11 +554,6 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
-metafile = true
-
-[[files]]
-file = "mods/paxi.pw.toml"
-hash = "e1434c282fc8d1d6d681838689200f09ffb94a7d3db112de72050597cbd70210"
 metafile = true
 
 [[files]]

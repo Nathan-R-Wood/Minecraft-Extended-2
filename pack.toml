@@ -1,16 +1,13 @@
 name = "Minecraft Extended 2"
 author = "Wizard Dragon"
-version = "0.1.0"
+version = "0.2.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "22dca8cb6c31decc9836da1cd525756fdc034b1a7b33562bc7a502d253076b5b"
+hash = "7b9ffb8c88eed26b2221e784958710bc9613dfc1fcc8ff647f33f57691a1ee72"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.25.0"
-
-[options]
-datapack-folder = "config/paxi/datapacks"
+quilt = "0.26.0-beta.1"
