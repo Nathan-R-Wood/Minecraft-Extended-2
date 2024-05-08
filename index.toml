@@ -113,6 +113,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "44fd53719debc9354872af691ebafda32b9969a1b910c400debf61b587239892"
 
 [[files]]
+file = "config/travelersbackpack.json5"
+hash = "e9e9d3cdefca4bf96dd5b6dab8a4fe9476f8f68704829bd31be8a5a339d5a8bb"
+
+[[files]]
 file = "defaultconfigs/easyshulkerboxes-server.toml"
 hash = "c45211528ffc2e779f312f963715d6bedbe98e7290654193ae6df593ac6d7201"
 
@@ -362,11 +366,6 @@ hash = "f7a50aa8629a4647c54755ac16e0ea2697c90f222cff8bdd9f550cb36e167896"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -509,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/minimotd.pw.toml"
 hash = "e0586a6d5278a38714dc4381ea0974fb100227ae19c8e6bb3e39bc844588e5f1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
