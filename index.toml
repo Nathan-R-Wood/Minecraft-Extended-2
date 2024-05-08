@@ -110,7 +110,7 @@ hash = "18449d2114ffe0e60bf9331e1080a1a8fda1f8f3668278de0c9a2533c5c72e29"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "440b22d1dfdbc4df351162c1d234688d428ce33c4d4d61068e8aaa9cb27fd57d"
+hash = "44fd53719debc9354872af691ebafda32b9969a1b910c400debf61b587239892"
 
 [[files]]
 file = "defaultconfigs/easyshulkerboxes-server.toml"
@@ -199,6 +199,11 @@ metafile = true
 [[files]]
 file = "mods/bottle-your-xp.pw.toml"
 hash = "dd95926e45b9bec721ce5cb99f75aac12185941b320cf830b5962f2254e7127f"
+metafile = true
+
+[[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "b3503cb0b7eae56e27e1d7980882795c0b81f4750ec9b140beb996a9d7c0dfb3"
 metafile = true
 
 [[files]]
@@ -313,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/eureka.pw.toml"
-hash = "6c65cd9854ca0811c41d8877eeddd2ae6a42a273bea633b2bf3e9938a04dc7a7"
+hash = "b9776960dcc40b4688a1ef1129932694cc8a5b7248c057284022446ac19101cf"
 metafile = true
 
 [[files]]
@@ -422,11 +427,6 @@ hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
 metafile = true
 
 [[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "c9f4a8f985932269b8c9159c320929f81216f7197c2909c24c1498346f371b32"
-metafile = true
-
-[[files]]
 file = "mods/inventory-tabs.pw.toml"
 hash = "888c65b3df100f58d5b13426abedcc49e1a66438e73df2704fdc6a03e1127048"
 metafile = true
@@ -454,11 +454,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "3de6db38b0870f8bc8c61b2698d4b64ac1610b9066536be1b22b3a8257ab73fe"
 metafile = true
 
 [[files]]
@@ -659,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/towers-of-the-wild-additions.pw.toml"
 hash = "47960028fa39275a2d9a1c70c27e5a59395d4facfcb1f50529e0286b2d0655c0"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "c8b62279ce25dc287020134e4e3438d3a06fec88aacd402db2d893efae7182c2"
 metafile = true
 
 [[files]]
